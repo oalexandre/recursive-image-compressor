@@ -6,7 +6,7 @@ Welcome, this is a simple script in bash using imageMagick to **compress** a gro
 
 Install imagemagick on you system :). In Ubuntu or Debian like use:
 
-**_sudo apt-get install imagemagick_**
+    sudo apt-get install imagemagick
 
 
 # Script Usage
