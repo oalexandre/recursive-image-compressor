@@ -2,7 +2,8 @@
 
 Welcome, this is a simple script in bash using imageMagick to **compress** a group off images inside many folders/directories.  
 
-**PREREQUISITES**
+**REQUIREMENTS**
+
 Install imagemagick on you system :). In Ubuntu or Debian like use:
 **_sudo apt-get install imagemagick_**
 
